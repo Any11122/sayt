@@ -7,8 +7,8 @@ body{
 
 
 align-content: center;
-text-align: center;
-
+display: flex;
+margin-left: 500px;
 }
 
 
@@ -73,3 +73,30 @@ display: flex;
     display: flex;
     margin-left: 340px;
 }
+.ngar1{
+
+
+    display: flex;
+}
+.ngar2{
+
+
+    display: flex;
+}
+.ngar3{
+
+
+    display: flex;
+}
+.knpka1{
+
+
+color: blue;
+   
+}
+
+
+
+
+
+
